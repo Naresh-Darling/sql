@@ -1,0 +1,2 @@
+# sql
+To write queries
